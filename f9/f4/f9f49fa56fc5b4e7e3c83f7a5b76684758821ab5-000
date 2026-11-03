@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "alien-skin-2-november-2026",
- "scannedAt": "2026-11-03T15:00:34.486Z",
+ "scannedAt": "2026-11-03T15:34:42.297Z",
  "conversations": [
   {
    "projectId": "alien-skin-2-november-2026",
@@ -126,8 +126,8 @@
    "conversationId": "gemini:ec5894db-6bb7-4846-a3db-abc86cf821a2",
    "provider": "gemini",
    "sessionId": "ec5894db-6bb7-4846-a3db-abc86cf821a2",
-   "title": "Parfait. J'aimerais juste ajouter alors, je vais juste ajouter un motion design. Alors la question c'est quand? À mon avis, ça va être à par",
-   "updatedAt": "2026-11-03T14:47:36.270035+00:00",
+   "title": "Conversation Gemini ec5894db",
+   "updatedAt": "2026-11-03T14:48:39.811Z",
    "bytes": 23822336,
    "boundProject": "alien-skin-2-november-2026"
   },
@@ -229,6 +229,22 @@
   },
   {
    "projectId": "alien-skin-2-november-2026",
+   "lines": 5,
+   "work": 0,
+   "prompts": 2,
+   "first": "2026-11-03T15:09:25.752Z",
+   "last": "2026-11-03T15:09:41.952Z",
+   "strength": "strong",
+   "conversationId": "claude:fdce96ce-c0fd-4b6e-8530-957817ed13c2",
+   "provider": "claude",
+   "sessionId": "fdce96ce-c0fd-4b6e-8530-957817ed13c2",
+   "title": "résumé",
+   "updatedAt": "2026-11-03T15:32:39.771Z",
+   "bytes": 37722,
+   "boundProject": null
+  },
+  {
+   "projectId": "alien-skin-2-november-2026",
    "lines": 10,
    "work": 2,
    "prompts": 0,
@@ -254,8 +270,8 @@
    "conversationId": "gemini:b5fe17ca-baf0-408d-b195-d321db97fce5",
    "provider": "gemini",
    "sessionId": "b5fe17ca-baf0-408d-b195-d321db97fce5",
-   "title": "[$zenray-assets](/Users/zenray/.codex/skills/zenray-assets/SKILL.md) context on a repris louisiana bayou comprends l'index mapping",
-   "updatedAt": "2026-10-08T10:10:53.647286+00:00",
+   "title": "Conversation Gemini b5fe17ca",
+   "updatedAt": "2026-10-08T10:11:37.548Z",
    "bytes": 11272192,
    "boundProject": "louisiana-bayou"
   },
@@ -270,8 +286,8 @@
    "conversationId": "gemini:817ce2b3-49da-4157-97ed-d40d9533b1e7",
    "provider": "gemini",
    "sessionId": "817ce2b3-49da-4157-97ed-d40d9533b1e7",
-   "title": "Est ce que tu peux voir s'il existe un houdini mcp officiel sortie par compatible avec agents agnostique si possible je sais que radu cius a",
-   "updatedAt": "2026-09-07T09:15:58.634576+00:00",
+   "title": "Conversation Gemini 817ce2b3",
+   "updatedAt": "2026-09-07T09:16:38.501Z",
    "bytes": 2674688,
    "boundProject": null
   },
@@ -559,8 +575,8 @@
    "provider": "claude",
    "sessionId": "f1e3a669-6bb1-4ae2-aa51-ac234bc6563d",
    "title": "motion design first light",
-   "updatedAt": "2026-11-03T14:40:49.076Z",
-   "bytes": 37417,
+   "updatedAt": "2026-11-03T15:28:30.711Z",
+   "bytes": 37429,
    "boundProject": null
   },
   {
