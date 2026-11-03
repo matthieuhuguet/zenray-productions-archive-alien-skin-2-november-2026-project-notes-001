@@ -7922,5 +7922,12 @@
     "size": 53477787,
     "modifiedAt": "2026-11-02T20:25:04.370991+00:00",
     "sha256": null
+  },
+  {
+    "path": "/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/Articles/index.html",
+    "role": "Article et Synth\u00e8se",
+    "size": 2633987,
+    "modifiedAt": "2026-11-03T14:39:15.283967+00:00",
+    "sha256": "ff52ee28671366901b0bb1530e727aebdca8d05afec3309dde69cba4099d4fcc"
   }
 ]
