@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "alien-skin-2-november-2026",
- "scannedAt": "2026-11-03T17:20:36.538Z",
+ "scannedAt": "2026-11-03T17:49:03.869Z",
  "conversations": [
   {
    "projectId": "alien-skin-2-november-2026",
@@ -239,8 +239,8 @@
    "provider": "claude",
    "sessionId": "e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
    "title": "zorah materials",
-   "updatedAt": "2026-11-03T17:16:34.302Z",
-   "bytes": 37242,
+   "updatedAt": "2026-11-03T17:46:56.908Z",
+   "bytes": 4747179,
    "boundProject": "zorah-materials"
   },
   {
