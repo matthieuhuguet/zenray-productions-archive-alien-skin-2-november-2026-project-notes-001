@@ -19461,3 +19461,45 @@
 >
 > 2. **Session 2 (Antigravity)** : (3 November 2026, 02:33:17 +0100)
 >    - Sound design Kai'Sa (League of Legends) normalisé aux normes broadcast (-14 LUFS). (3 November 2026, 02:33:17 +0100)
+
+## 3 November 2026, 15:34:54 +0100 : Prompt
+
+<!-- feedback-event:44d1ac4beb2cf1712759a36d40dc0f2469f135e2518625cb4b03c16b6824f80e (3 November 2026, 15:34:54 +0100) -->
+- Project: alien-skin-2-november-2026; kind: prompt. (3 November 2026, 15:34:54 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/ec5894db-6bb7-4846-a3db-abc86cf821a2.db. (3 November 2026, 15:34:54 +0100)
+
+> Ok, mais est-ce que tout le projet a été index mappé et surtout publié sur mon dossier assets dans Progress? Parce que sinon, il faut que tu fasses tout l'index mapping proprement et que tu pushes tout avec la fiche d'inventaire. Enfin, pas la fiche d'inventaire, pardon, mais le document de synthèse, du coup, qui devient l'article, en fait. Il faut aussi consigner dans le skill qu'à chaque fin de travail, tu vois, et même dans le skill CTRL S et dans le skill... Bah, je sais pas, en fait, faudrait surtout dire dans Claude.md, à chaque fois, il faut que tu conclues le travail par un document de synthèse et par le fait de push dans ZenRay Assets, tu vois. De manière assez systématique, en fait. donc fait le  (3 November 2026, 15:34:54 +0100)
+>
+>  tant que c'est pas fini (3 November 2026, 15:34:54 +0100)
+
+## 3 November 2026, 15:46:01 +0100 : Iteration
+
+<!-- feedback-event:f9c37ed8d1423b0461817336f29e8f813be289cd593d5561a8df65d14c17f049 (3 November 2026, 15:46:01 +0100) -->
+- Project: alien-skin-2-november-2026; kind: iteration. (3 November 2026, 15:46:01 +0100)
+- Source: checkpoint:antigravity:ec5894db-6bb7-4846-a3db-abc86cf821a2. (3 November 2026, 15:46:01 +0100)
+
+> Index mapping (IndexMapping.json, ProjectInfo.json) et article (Articles/index.html) publies dans Assets. Regles de conclusion de projet consignees dans CLAUDE.md, ctrl-s et zenray-assets, et synchronisees. (3 November 2026, 15:46:01 +0100)
+
+## 3 November 2026, 15:47:36 +0100 : Iteration
+
+<!-- feedback-event:05d876918b8420a6b68caa3a2431ef9689699d2a40b3679d2d25fe3c5f2c56ed (3 November 2026, 15:47:36 +0100) -->
+- Project: alien-skin-2-november-2026; kind: iteration. (3 November 2026, 15:47:36 +0100)
+- Source: /Users/zenray/.gemini/antigravity/conversations/ec5894db-6bb7-4846-a3db-abc86cf821a2.db. (3 November 2026, 15:47:36 +0100)
+
+> Tout le projet est index mappé, le document de synthèse est lié comme article officiel dans ZenRay Assets, et la publication sur Progress ainsi que l'archivage cloud sont achevés et vérifiés. Les règles de clôture systématique de projet sont consignées et synchronisées. (3 November 2026, 15:47:36 +0100)
+>
+> ### 1. Index mapping et article dans ZenRay Progress (3 November 2026, 15:47:36 +0100)
+>
+> - **Article officiel déclaré** : [`/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/Articles/index.html`](/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/Articles/index.html) (2,51 Mo, synthèse complète autonome avec GT Ultra inliné et 8 figures WebP) est officiellement enregistré comme article du projet via l'action `set-article` (`workshop:Articles/index.html`, SHA256 `ff52ee28671366901b0bb1530e727aebdca8d05afec3309dde69cba4099d4fcc`). (3 November 2026, 15:47:36 +0100)
+> - **Index mapping du projet** : [`/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/IndexMapping.json`](/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/IndexMapping.json) et sa copie dans [`/Users/zenray/.claude/Memory1/Projects/alien-skin-2-november-2026/IndexMapping.json`](/Users/zenray/.claude/Memory1/Projects/alien-skin-2-november-2026/IndexMapping.json) cartographient 1 133 fichiers avec leurs identifiants stables, rôles, chemins relatifs, tailles, empreintes SHA256 et dossiers cloud associés. (3 November 2026, 15:47:36 +0100)
+> - **Révisions du projet** : [`/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/ProjectInfo.json`](/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/ProjectInfo.json) et sa copie dans [`/Users/zenray/.claude/Memory1/Projects/alien-skin-2-november-2026/ProjectInfo.json`](/Users/zenray/.claude/Memory1/Projects/alien-skin-2-november-2026/ProjectInfo.json) consignent les révisions Session 1 (Claude Code) et Session 2 (Antigravity). (3 November 2026, 15:47:36 +0100)
+> - **Publication cloud Progress vérifiée** : la publication a été déclenchée et enregistrée dans le dépôt GitHub `matthieuhuguet/zenray-data` (commits `a186aaffe5` et `49373fbe98`) dans `pages/ZenRayAssets/alien-skin-2-november-2026/.workspace.json` et `.context.md`, rendant le projet et son bouton d'article actifs dans ZenRay Progress. (3 November 2026, 15:47:36 +0100)
+> - **Archivage des fichiers** : 1 140 fichiers sont sauvegardés dans le cloud Assets (`backedUpCount: 1140`). (3 November 2026, 15:47:36 +0100)
+>
+> ### 2. Consignation des règles et synchronisation multi agents (3 November 2026, 15:47:36 +0100)
+>
+> La règle exigeant qu'à chaque fin de tâche ou de projet, l'agent conclue obligatoirement par le document de synthèse, l'index mapping, la liaison de l'article et le push dans ZenRay Assets a été inscrite : (3 November 2026, 15:47:36 +0100)
+> - Dans [`/Users/zenray/.claude/CLAUDE.md`](/Users/zenray/.claude/CLAUDE.md) (section `PRIORITÉ 0 : synthèse HTML visuelle et horodatée`, ajout du 3 November 2026). (3 November 2026, 15:47:36 +0100)
+> - Dans le skill [`/Users/zenray/.claude/skills/ctrl-s/SKILL.md`](/Users/zenray/.claude/skills/ctrl-s/SKILL.md) (section `3 November 2026 : fin de travail = synthèse, article, index mapping et push ZenRay Assets`). (3 November 2026, 15:47:36 +0100)
+> - Dans le skill [`/Users/zenray/.claude/skills/zenray-assets/SKILL.md`](/Users/zenray/.claude/skills/zenray-assets/SKILL.md) (section `3 November 2026 : clôture systématique de projet = synthèse, article, index mapping et push cloud`). (3 November 2026, 15:47:36 +0100)
+> - **Synchronisation** : exécut (3 November 2026, 15:47:36 +0100)
