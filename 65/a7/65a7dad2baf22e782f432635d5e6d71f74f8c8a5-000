@@ -1,0 +1,9 @@
+# alien-skin-2-november-2026 : rules, append only (2 November 2026)
+
+Standing rules of this project, one line each, loaded automatically at session start. Full history and context: FEEDBACK.md in this folder. A rule that changes gets a new line citing the old one. (2 November 2026)
+
+- Règle (2 November 2026) : une fois la height finale finie, demander à Matthieu, avec le chemin de la height finale seamless et répétable, de la reprendre et d'envoyer la base color générée depuis cette height et la référence ; c'est la seule carte à générer. Écrite aussi dans zenray-height. (2 November 2026) <!-- rule:8db67666f8bf -->
+- Règle (2 November 2026) : le film se règle dans unreal/alien_ad.json, puis BuildFilmSpec.py et BuildAd.py ; un changement de coloris devant la caméra est une coupe vers un décor identique, jamais un changement de matériau. (2 November 2026) <!-- rule:9a39eb6a2ad2 -->
+- Règle (2 November 2026) : ne jamais utiliser la vue verte dans le film : Snake, orange, gris, dans cet ordre. (2 November 2026) <!-- rule:0b9da3d1d589 -->
+- Après un crash d'Unreal, une reprise au milieu d'un plan ne colle pas (image 238 : écart 0,047) : toujours reprendre au début du plan et mesurer l'image de raccord. (2 November 2026) <!-- rule:eb3979c56a0a -->
+- Correction musique : les deux morceaux commencent à leur propre 0 s ; Nuit sur Lumière de 0 à 8 s, superposition, puis The Ancient Life seule ; ne pas reprendre l'extrait à 3 min de l'ancien montage. Vérifier sur le 1024. (2 November 2026) <!-- rule:c89abd6623c5 -->

@@ -1,0 +1,45 @@
+# Alien Skin : project knowledge (2 November 2026)
+
+- Project ID: alien-skin-2-november-2026. (2 November 2026)
+- Canonical feedback: /Users/zenray/.claude/Memory1/Projects/alien-skin-2-november-2026/FEEDBACK.md. (2 November 2026)
+- Append dated decisions and verified knowledge here; retain existing entries. (2 November 2026)
+
+## 2 November 2026 : index du chantier, depuis le début de la conversation
+
+- Identité créée le 2 November 2026 au soir, alors que le travail avait commencé plus tôt le même jour sans projet relié ; les prompts de cette conversation sont capturés dans `/Users/zenray/.claude/Memory1/Projects/alien-skin-2-november-2026/FEEDBACK.md`, et une partie des prompts et règles a d'abord été écrite dans le projet `zenray-height`, où elle reste. (2 November 2026)
+- Conversation : Claude Code, session `fd247c15-80dd-4c74-93af-112af60fa28e`. (2 November 2026)
+
+### Chronologie (2 November 2026)
+
+| Étape | Résultat mesuré | Où |
+|---|---|---|
+| Height reproduite depuis `alienskinref.png` | 0,99888 sans joint, 0,98531 avec le module seamless | `/Users/zenray/.claude/tmp/tmp-zenray-height/projects/AlienSkinRef/versions/final/AlienSkinRef_H2/`, graphe `/obj/ZRH_AlienSkinRef` |
+| Module seamless écrit et consigné | 9 textures sur 11 vertes au banc | `/Users/zenray/.claude/skills/zenray-houdini/scripts/height/Seamless.py`, `Copernicus2.md` section 1.7 |
+| Couleur procédurale, écartée par Matthieu | aspect montagne, rejeté | `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/basecolor`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/maps`, `/Users/zenray/.claude/tmp/tmp-zenray-height/projects/AlienSkinRef/AlienSkinRef_with_procedural_colour.hiplc` |
+| Variantes low, mid, high de relief | remplacées par le menu Variant | `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/maps_low`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/maps_mid`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/maps_high` |
+| Flat recalée puis reproduite par la flat seule, écartée | 0,9958 mais la couleur ne lisait pas la height | scène `/Users/zenray/.claude/tmp/tmp-zenray-height/projects/AlienSkinRef/AlienSkinRef_3_colorways.hiplc` et antérieures |
+| Base color verte depuis la height et la flat | luminance 0,9929, décalage médian 3,2 px | `/Users/zenray/.claude/tmp/tmp-zenray-height/projects/AlienSkinRef/versions/final/AlienSkinRef_HBC`, `AlienSkinRef_Lines_H2`, nœuds `HBC_`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/maps_green` |
+| Coloris red et grey, teintes par zone depuis la verte | zones mesurées sur la planche des trois panneaux | `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/refs/colorway_targets.json`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/maps_red`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/maps_grey` |
+| Flat Snake générée depuis la height finale | 39,8 px avant calage, 2,2 px après ; luminance 0,9953 à plus de 96 px des joints | `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/Sources/reference_flat_snake_from_final_height.webp`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/refs/snake`, `/Users/zenray/.claude/tmp/tmp-zenray-height/projects/AlienSkinRef/versions/final/AlienSkinRef_HBS`, `AlienSkinRef_LinesSnake_H2`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/maps_snake` |
+| Plans de Ceramic Tiles refaits dans Unreal | mêmes six caméras, comparés plan par plan | `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/render/ue_test_vs_ceramic.png` |
+| Film de 27 s validé par Matthieu | sphères, grue, orbite, zoom, trio ; Snake, orange, gris | `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/unreal/film.json`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/render/film_sheet.png`, `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/render/alien_skin_film_preview_1024.mp4` |
+
+### Où est quoi (2 November 2026)
+
+- Scène Houdini courante : `/Users/zenray/.claude/tmp/tmp-zenray-height/projects/AlienSkinRef/AlienSkinRef_4_colorways.hiplc`, réseau `/obj/ZRH_AlienSkinRef`, dossiers HDA Relief, HDA Gloss, HDA Colorway ; les réseaux de lignes fines `/obj/ZRH_AlienSkinRef_Lines` et `/obj/ZRH_AlienSkinRef_LinesSnake` y sont liés. Elle lit les géométries de `/Users/zenray/.claude/tmp/tmp-zenray-height/projects/AlienSkinRef/data` et de `/Users/zenray/.claude/tmp/tmp-zenray-height/data/geo`, sauvegardées par le projet `zenray-height`. (2 November 2026)
+- Unreal, projet `/Users/zenray/Create/Build/Productions/ZenRayShards/ZenRayShards` : niveau `/Game/ZenRayShards/Levels/L_AlienSkinAd`, séquence `/Game/ZenRayShards/Cinematics/LS_AlienSkinAd`, `Materials/AlienSkin`, `Meshes/AlienSkin`. Il réutilise le maillage `SM_CeramicAdCyclorama` de Ceramic Tiles. (2 November 2026)
+- Configuration du film, seul endroit à régler : `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/unreal/alien_ad.json` ; caméras d'origine copiées dans `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/unreal/anim.json` et `rig.json`. (2 November 2026)
+- Rendu final : images `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/render/final_4096`, vidéo `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/render/alien_skin_film_4096_24fps.mp4`, journal `/Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/render/final_4096/LOG.txt`. Les dossiers d'images `render/final_4096`, `render/ue_preview` et `render/ue_test` sont exclus de l'archive cloud : ils se refont et pèsent plusieurs Go ; les vidéos et planches sont archivées. (2 November 2026)
+- Code réutilisable : `/Users/zenray/.claude/skills/zenray-houdini/scripts/height/` (`HeightToBaseColor.py`, `RefineColourOnHeight.py`, `CheckOnRelief.py`, `BaseColorLines.py`, `AskBaseColor.py`, `HeightTo5MapsCop.py`), `/Users/zenray/.claude/skills/zenray-houdini/scripts/unreal_ad/` ; méthode dans `/Users/zenray/.claude/skills/zenray-houdini/Copernicus2.md` section 14.8 et `/Users/zenray/.claude/skills/zenray-houdini/Protocol1.md` section 8 nonies. (2 November 2026)
+
+### Limites connues (2 November 2026)
+
+- Le 0,999 n'est pas atteint sur la couleur ; près des joints, la couleur Snake quitte volontairement la flat, qui ne se répète pas. (2 November 2026)
+- La chromie verte reste à 0,93 sur Snake, et un trait doux de quelques pixels se voit au joint à taille réelle. (2 November 2026)
+- Grey et red sont des teintes par zone, sans flat de référence. Green est bâtie sur la flat d'origine, antérieure à la height finale. (2 November 2026)
+
+## 2 November 2026, 23:05 : film final et musique
+
+- Film final : /Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/render/alien_skin_film_4096_24fps.mp4 (HEVC 4096, 648 images, 27,0 s, bt709, AAC 320 k). Images 1 à 238 en 4096, 239 à 648 en 2048 agrandies (lanczos), après deux crashs d'Unreal en 4096 (shader DiaphragmDOF) ; raccord mesuré sur l'image 238 : écart 0,0081. Script : /Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/fit/RunFinalSplit.py, bloc final_split de /Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/unreal/alien_ad.json. (2 November 2026)
+- Musique : Nuit sur Lumière (Lorien Testard) depuis son 0 s jusqu'à 8 s, fondu croisé de 7 à 9 s, puis The Ancient Life (Noriyasu Agematsu) depuis son 0 s ; fondus d'1 s ; -14 LUFS. Paramètres : /Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/audio/score_params.json ; moteur : /Users/zenray/.claude/skills/zenray-edit/scripts/score-timeline.py ; film 1024 avec musique : /Users/zenray/.claude/tmp/tmp-alien-skin-2-november-2026/render/alien_skin_film_preview_1024_music.mp4. (2 November 2026)
+- Post : /Users/zenray/.claude/Memory1/Projects/alien-skin-2-november-2026/Posts/2-November-2026-AlienSkinTexture/Post.md (texte de Matthieu, grammaire seule, artiste vérifié MJPro). (2 November 2026)

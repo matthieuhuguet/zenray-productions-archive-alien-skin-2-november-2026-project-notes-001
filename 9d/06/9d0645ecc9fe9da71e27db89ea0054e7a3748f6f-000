@@ -1,0 +1,23 @@
+# Alien Skin texture, post (English only, draft, 2 November 2026)
+
+Final text by Matthieu, grammar corrected only, 2 November 2026. Artist verified: MJPro.
+
+Here is a texture I recreated from MJPro's alien skin on ArtStation. He made the original in Substance Designer.
+
+I rebuilt it in Houdini Copernicus, from the reference image, it's a bit different and it's closer to a mountain or Monster Hunter creatures but here it is: a height map first, then the base color derived from that height. One graph with sliders gives three colourways or as many as you want because everything is procedural (snake green, red, grey), and five PBR maps to light it in Unreal.
+
+It appears in a short film rendered in Unreal Engine 5 with Lumen much faster than Karma CPU on my hardware.
+
+Thank you, MJPro. I love the original work, very alienny and crocodile snake texture...: https://www.artstation.com/artwork/yAA8Y5
+
+#houdini #unrealengine #technicalart
+
+
+## Dernière modification validée (3 November 2026)
+
+Here is a texture I recreated from MJ's Project (Artist) alien skin on ArtStation. He made the original in Substance Designer. 
+Project: https://www.artstation.com/artwork/yAA8Y5
+
+I rebuilt it in Houdini Copernicus, from the reference image, it's a bit different and it's closer to a mountain or Monster Hunter creatures but here it is: a height map first, then the base color derived from that height. One graph with sliders gives three colourways or as many as you want because everything is procedural (snake, red-orange, grey), and five PBR maps to light it in Unreal.
+
+#houdini #unrealengine #technicalart

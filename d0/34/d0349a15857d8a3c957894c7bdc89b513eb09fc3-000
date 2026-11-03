@@ -1,0 +1,79 @@
+# Resume alien-skin-2-november-2026 (2 November 2026 at 23:29)
+
+- Generated from FEEDBACK.md, Rules.md and ConversationIndex.json; derived, never edited by hand, never a substitute for the originals. (2 November 2026 at 23:29)
+- Pinned rules, read first: [Rules.md](/Users/zenray/.claude/Memory1/Projects/alien-skin-2-november-2026/Rules.md) (5 rules). (2 November 2026 at 23:29)
+- Canonical feedback: [FEEDBACK.md](/Users/zenray/.claude/Memory1/Projects/alien-skin-2-november-2026/FEEDBACK.md), 214 entries, last Standing rule at 2 November 2026, 23:00:07 +0100. (2 November 2026 at 23:29)
+
+## Latest conversations (2 November 2026 at 23:29)
+
+- LATEST claude:fd247c15-80dd-4c74-93af-112af60fa28e, « zenray height », last activity 2 November 2026 at 22:42 Paris (from feedback). Original: `node scripts/Assets/ConversationDigest.mjs claude:fd247c15-80dd-4c74-93af-112af60fa28e --out <file.md>`. (2 November 2026 at 23:29)
+
+## Last 6 prompts of Matthieu, oldest first (2 November 2026 at 23:29)
+
+### 2 November 2026, 22:40:05 +0100 · Prompt · claude:fd247c15
+
+> This session is being continued from a previous conversation that ran out of context. The summary below covers the earlier portion of the conversation.
+> 
+> <tools-used-before-summary>Bash, Edit, Read, SendUserFile, Skill, ToolSearch, Write, mcp__ccd_directory__change_directory, mcp__ccd_directory__request_directory, mcp__ccd_session__mark_chapter, mcp__ccd_turn__update_plan, mcp__ccd_turn__wrap_up</tools-used-before-summary>
+> Summary:
+> 1. Primary Request and Intent:
+>    - Overall project (2 November 2026): ZenRay Height reproduction of the alien/reptile skin `alienskinref.png` in Houdini Copernicus, then its base color, colourways, PBR maps, and an Unreal film using the Ceramic Tiles camera moves.
+> [... 415126 more characters in FEEDBACK.md]
+
+### 2 November 2026, 22:40:15 +0100 · Prompt · claude:fd247c15
+
+> Base directory for this skill: /Users/zenray/.claude/skills/zenray-edit
+> 
+> # ZenRay Edit (7 October 2026)
+> 
+> ## 1 November 2026 : document de synthèse HTML illustré et horodaté
+> 
+> - Tout projet ou chantier, y compris TMP, possède une synthèse HTML visuelle, éditable par ses sources, avec résumé neutre, inventaire compact replié, visuels intégrés et date/heure/fuseau de chaque entrée. Contrat courant : [references/ProjectSynthesis.md](references/ProjectSynthesis.md), à lire avec [references/ProjectArticles.md](references/ProjectArticles.md) pour les commandes existantes. (1 November 2026)
+> - Réutiliser les générateurs et le registre d'articles existants ; les nouvelles règles précisent leur usage sa
+> [... 69386 more characters in FEEDBACK.md]
+
+### 2 November 2026, 22:40:22 +0100 · Prompt · claude:fd247c15
+
+> Base directory for this skill: /Users/zenray/.claude/skills/zenray-edit
+> 
+> # ZenRay Edit (7 October 2026)
+> 
+> ## 1 November 2026 : document de synthèse HTML illustré et horodaté
+> 
+> - Tout projet ou chantier, y compris TMP, possède une synthèse HTML visuelle, éditable par ses sources, avec résumé neutre, inventaire compact replié, visuels intégrés et date/heure/fuseau de chaque entrée. Contrat courant : [references/ProjectSynthesis.md](references/ProjectSynthesis.md), à lire avec [references/ProjectArticles.md](references/ProjectArticles.md) pour les commandes existantes. (1 November 2026)
+> - Réutiliser les générateurs et le registre d'articles existants ; les nouvelles règles précisent leur usage sa
+> [... 69386 more characters in FEEDBACK.md]
+
+### 2 November 2026, 22:51:44 +0100 · Prompt · manual
+
+> Musique du film : Nuit sur Lumière (Lorien Testard) de 0 à 8 s puis The Ancient Life (Noriyasu Agematsu), fondu croisé 2 s (1 s chacun), fondu d'entrée et de sortie 1 s ; sur le 1024 puis sur le 4096, rangé dans le projet.
+
+### 2 November 2026, 22:51:44 +0100 · Prompt · manual
+
+> Unreal a crashé en 4096 : reprendre les images déjà calculées avec une image de raccord, 4096 jusqu'à environ 50 % calé sur une coupe de plan, le reste en 2048 ; puis second crash : toutes les images restantes en 2048.
+
+### 2 November 2026, 22:51:45 +0100 · Prompt · manual
+
+> Post ultra court délégué à un agent Haiku (effort extra) : texture recréée depuis l'Alien Skin de MJ (ArtStation, Substance Designer), refaite dans Houdini Copernicus, remerciement et lien.
+
+
+## Last 3 iterations or checkpoints (2 November 2026 at 23:29)
+
+### 2 November 2026, 22:37:20 +0100 · Iteration · claude:fd247c15
+
+> Prompt is too long
+
+### 2 November 2026, 22:41:18 +0100 · Iteration · claude:fd247c15
+
+> Unreal a planté à 22 h 37 dans le flou de profondeur à 4096 ; 238 images sont bonnes, je relance la suite.
+
+### 2 November 2026, 22:42:59 +0100 · Iteration · claude:fd247c15
+
+> Je télécharge « The Ancient Life » (version officielle, chaîne Topic) et je vérifie qu'Unreal a redémarré.
+
+
+## Last order of work (2 November 2026 at 23:29)
+
+- None recorded. (2 November 2026 at 23:29)
+
+Next step: reread the latest prompt above, check it against Rules.md, then continue; append through feedback.py and close the turn with Client.mjs checkpoint. (2 November 2026 at 23:29)
