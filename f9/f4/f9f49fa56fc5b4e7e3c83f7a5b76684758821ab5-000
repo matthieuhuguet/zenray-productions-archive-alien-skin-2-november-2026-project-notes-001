@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "alien-skin-2-november-2026",
- "scannedAt": "2026-11-04T00:14:09.942Z",
+ "scannedAt": "2026-11-04T06:15:22.343Z",
  "conversations": [
   {
    "projectId": "alien-skin-2-november-2026",
@@ -149,6 +149,22 @@
   },
   {
    "projectId": "alien-skin-2-november-2026",
+   "lines": 43,
+   "work": 1,
+   "prompts": 2,
+   "first": "2026-11-03T16:19:06.390Z",
+   "last": "2026-11-04T01:04:10.291Z",
+   "strength": "strong",
+   "conversationId": "claude:e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
+   "provider": "claude",
+   "sessionId": "e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
+   "title": "zorah materials",
+   "updatedAt": "2026-11-04T01:53:29.924Z",
+   "bytes": 38359,
+   "boundProject": "zorah-materials"
+  },
+  {
+   "projectId": "alien-skin-2-november-2026",
    "lines": 9,
    "work": 1,
    "prompts": 1,
@@ -210,22 +226,6 @@
    "updatedAt": "2026-10-20T19:18:11.914Z",
    "bytes": 41538,
    "boundProject": null
-  },
-  {
-   "projectId": "alien-skin-2-november-2026",
-   "lines": 21,
-   "work": 0,
-   "prompts": 2,
-   "first": "2026-11-03T16:19:06.390Z",
-   "last": "2026-11-04T00:01:30.842Z",
-   "strength": "strong",
-   "conversationId": "claude:e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
-   "provider": "claude",
-   "sessionId": "e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
-   "title": "zorah materials",
-   "updatedAt": "2026-11-04T00:13:49.321Z",
-   "bytes": 66366892,
-   "boundProject": "zorah-materials"
   },
   {
    "projectId": "alien-skin-2-november-2026",
@@ -737,6 +737,22 @@
    "title": "Mail transfert dossier auto-école",
    "updatedAt": "2026-10-02T14:38:28.892Z",
    "bytes": 23040,
+   "boundProject": null
+  },
+  {
+   "projectId": "alien-skin-2-november-2026",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-04T01:29:24.759Z",
+   "last": "2026-11-04T01:29:24.759Z",
+   "strength": "weak",
+   "conversationId": "claude:57bf6970-5289-409f-a946-08738bf3dd84",
+   "provider": "claude",
+   "sessionId": "57bf6970-5289-409f-a946-08738bf3dd84",
+   "title": "gt america = clean font easy to read",
+   "updatedAt": "2026-11-04T01:31:57.209Z",
+   "bytes": 42942,
    "boundProject": null
   },
   {
