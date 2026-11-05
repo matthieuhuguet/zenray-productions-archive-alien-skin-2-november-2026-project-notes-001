@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "alien-skin-2-november-2026",
- "scannedAt": "2026-11-04T18:17:29.849Z",
+ "scannedAt": "2026-11-05T17:20:55.325Z",
  "conversations": [
   {
    "projectId": "alien-skin-2-november-2026",
@@ -159,8 +159,8 @@
    "provider": "claude",
    "sessionId": "e3fcfc3d-2756-4ada-8b78-faa7ff7c168a",
    "title": "zorah materials",
-   "updatedAt": "2026-11-04T01:53:29.924Z",
-   "bytes": 38359,
+   "updatedAt": "2026-11-05T11:03:31.906Z",
+   "bytes": 38491,
    "boundProject": "zorah-materials"
   },
   {
@@ -181,18 +181,18 @@
   },
   {
    "projectId": "alien-skin-2-november-2026",
-   "lines": 94,
+   "lines": 103,
    "work": 0,
    "prompts": 3,
    "first": "2026-10-25T14:43:32.510Z",
-   "last": "2026-11-02T19:59:09.566Z",
+   "last": "2026-11-05T15:29:05.439Z",
    "strength": "strong",
    "conversationId": "claude:09d15ec8-88ad-4965-a2f0-80b68515e880",
    "provider": "claude",
    "sessionId": "09d15ec8-88ad-4965-a2f0-80b68515e880",
-   "title": "zenray meshes",
-   "updatedAt": "2026-11-02T21:58:50.087Z",
-   "bytes": 44969,
+   "title": "zenray meshes dragon sculpt",
+   "updatedAt": "2026-11-05T15:38:15.829Z",
+   "bytes": 58286,
    "boundProject": "zenray-meshes"
   },
   {
@@ -239,8 +239,8 @@
    "provider": "claude",
    "sessionId": "ab8eb886-c8c8-4907-9217-d36f0dd11c49",
    "title": "Libération d'espace disque Mac",
-   "updatedAt": "2026-11-04T13:19:44.787Z",
-   "bytes": 37948,
+   "updatedAt": "2026-11-04T23:52:01.228Z",
+   "bytes": 37939,
    "boundProject": null
   },
   {
@@ -338,6 +338,22 @@
    "updatedAt": "2026-10-30T13:00:29.267Z",
    "bytes": 38918,
    "boundProject": "zenray-calendar-plan-23-october-2026"
+  },
+  {
+   "projectId": "alien-skin-2-november-2026",
+   "lines": 13,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-02T18:40:37.992Z",
+   "last": "2026-11-05T15:08:47.814Z",
+   "strength": "weak",
+   "conversationId": "claude:6800f4cb-0693-4309-9fee-622e37a3698e",
+   "provider": "claude",
+   "sessionId": "6800f4cb-0693-4309-9fee-622e37a3698e",
+   "title": "Camion Gnomon reproduit dans Houdini",
+   "updatedAt": "2026-11-05T15:32:18.428Z",
+   "bytes": 41473,
+   "boundProject": null
   },
   {
    "projectId": "alien-skin-2-november-2026",
@@ -568,22 +584,6 @@
    "lines": 4,
    "work": 0,
    "prompts": 0,
-   "first": "2026-11-02T18:40:37.992Z",
-   "last": "2026-11-02T20:55:03.040Z",
-   "strength": "weak",
-   "conversationId": "claude:6800f4cb-0693-4309-9fee-622e37a3698e",
-   "provider": "claude",
-   "sessionId": "6800f4cb-0693-4309-9fee-622e37a3698e",
-   "title": "Camion Gnomon reproduit dans Houdini",
-   "updatedAt": "2026-11-02T21:32:00.260Z",
-   "bytes": 40621,
-   "boundProject": null
-  },
-  {
-   "projectId": "alien-skin-2-november-2026",
-   "lines": 4,
-   "work": 0,
-   "prompts": 0,
    "first": "2026-10-23T20:51:55.558Z",
    "last": "2026-10-24T12:12:06.179Z",
    "strength": "weak",
@@ -792,6 +792,22 @@
    "lines": 2,
    "work": 0,
    "prompts": 0,
+   "first": "2026-11-05T15:36:29.055Z",
+   "last": "2026-11-05T15:36:29.055Z",
+   "strength": "weak",
+   "conversationId": "claude:2fa7a2c2-2e3a-4858-97ca-fca574273ab2",
+   "provider": "claude",
+   "sessionId": "2fa7a2c2-2e3a-4858-97ca-fca574273ab2",
+   "title": "how to be rich",
+   "updatedAt": "2026-11-05T15:42:19.290Z",
+   "bytes": 39705,
+   "boundProject": "conversation-claude-82aa3d4efb9aa834817ad361"
+  },
+  {
+   "projectId": "alien-skin-2-november-2026",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-11-04T01:29:24.759Z",
    "last": "2026-11-04T01:29:24.759Z",
    "strength": "weak",
@@ -816,7 +832,7 @@
    "sessionId": "1967c0e1-bef3-4b0d-af12-3efe5e9f087e",
    "title": "ZenRay Retopology à 100 % avant minuit",
    "updatedAt": "2026-10-30T22:48:49.984Z",
-   "bytes": 42586,
+   "bytes": 43522,
    "boundProject": null
   },
   {
