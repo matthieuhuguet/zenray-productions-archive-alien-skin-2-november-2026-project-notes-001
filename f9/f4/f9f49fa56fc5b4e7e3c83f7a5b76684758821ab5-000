@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "alien-skin-2-november-2026",
- "scannedAt": "2026-11-06T05:22:48.615Z",
+ "scannedAt": "2026-11-08T18:27:49.689Z",
  "conversations": [
   {
    "projectId": "alien-skin-2-november-2026",
@@ -126,8 +126,8 @@
    "conversationId": "gemini:ec5894db-6bb7-4846-a3db-abc86cf821a2",
    "provider": "gemini",
    "sessionId": "ec5894db-6bb7-4846-a3db-abc86cf821a2",
-   "title": "Parfait. J'aimerais juste ajouter alors, je vais juste ajouter un motion design. Alors la question c'est quand? À mon avis, ça va être à par",
-   "updatedAt": "2026-11-03T14:47:36.270035+00:00",
+   "title": "Conversation Gemini ec5894db",
+   "updatedAt": "2026-11-03T14:48:39.811Z",
    "bytes": 23822336,
    "boundProject": "alien-skin-2-november-2026"
   },
@@ -286,8 +286,8 @@
    "conversationId": "gemini:b5fe17ca-baf0-408d-b195-d321db97fce5",
    "provider": "gemini",
    "sessionId": "b5fe17ca-baf0-408d-b195-d321db97fce5",
-   "title": "[$zenray-assets](/Users/zenray/.codex/skills/zenray-assets/SKILL.md) context on a repris louisiana bayou comprends l'index mapping",
-   "updatedAt": "2026-10-08T10:10:53.647286+00:00",
+   "title": "Conversation Gemini b5fe17ca",
+   "updatedAt": "2026-10-08T10:11:37.548Z",
    "bytes": 11272192,
    "boundProject": "louisiana-bayou"
   },
@@ -302,8 +302,8 @@
    "conversationId": "gemini:817ce2b3-49da-4157-97ed-d40d9533b1e7",
    "provider": "gemini",
    "sessionId": "817ce2b3-49da-4157-97ed-d40d9533b1e7",
-   "title": "Est ce que tu peux voir s'il existe un houdini mcp officiel sortie par compatible avec agents agnostique si possible je sais que radu cius a",
-   "updatedAt": "2026-09-07T09:15:58.634576+00:00",
+   "title": "Conversation Gemini 817ce2b3",
+   "updatedAt": "2026-09-07T09:16:38.501Z",
    "bytes": 2674688,
    "boundProject": null
   },
@@ -711,22 +711,6 @@
    "projectId": "alien-skin-2-november-2026",
    "lines": 3,
    "work": 0,
-   "prompts": 1,
-   "first": "2026-10-29T16:37:19.972Z",
-   "last": "2026-10-29T17:37:45.968Z",
-   "strength": "weak",
-   "conversationId": "codex:01a183ee-37b7-7c60-a028-d9f9a184591a",
-   "provider": "codex",
-   "sessionId": "01a183ee-37b7-7c60-a028-d9f9a184591a",
-   "title": "Conversation codex 01a183ee",
-   "updatedAt": "2026-10-31T06:22:27.936Z",
-   "bytes": 130681305,
-   "boundProject": "zenray-edit"
-  },
-  {
-   "projectId": "alien-skin-2-november-2026",
-   "lines": 3,
-   "work": 0,
    "prompts": 0,
    "first": "2026-10-12T00:43:49.456Z",
    "last": "2026-10-12T10:19:36.916Z",
@@ -801,6 +785,22 @@
    "title": "Mail transfert dossier auto-école",
    "updatedAt": "2026-10-02T14:38:28.892Z",
    "bytes": 23040,
+   "boundProject": null
+  },
+  {
+   "projectId": "alien-skin-2-november-2026",
+   "lines": 2,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-11-07T23:01:28.675Z",
+   "last": "2026-11-07T23:01:28.675Z",
+   "strength": "weak",
+   "conversationId": "claude:e8ea2178-33dd-484a-8fb4-198702093ebf",
+   "provider": "claude",
+   "sessionId": "e8ea2178-33dd-484a-8fb4-198702093ebf",
+   "title": "past.dev setup et intégration",
+   "updatedAt": "2026-11-08T00:10:33.534Z",
+   "bytes": 39680,
    "boundProject": null
   },
   {
