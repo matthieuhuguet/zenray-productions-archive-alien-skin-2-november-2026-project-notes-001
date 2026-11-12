@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "alien-skin-2-november-2026",
- "scannedAt": "2026-11-11T23:54:20.273Z",
+ "scannedAt": "2026-11-12T05:55:34.314Z",
  "conversations": [
   {
    "projectId": "alien-skin-2-november-2026",
@@ -126,8 +126,8 @@
    "conversationId": "gemini:ec5894db-6bb7-4846-a3db-abc86cf821a2",
    "provider": "gemini",
    "sessionId": "ec5894db-6bb7-4846-a3db-abc86cf821a2",
-   "title": "Conversation Gemini ec5894db",
-   "updatedAt": "2026-11-03T14:48:39.811Z",
+   "title": "Parfait. J'aimerais juste ajouter alors, je vais juste ajouter un motion design. Alors la question c'est quand? À mon avis, ça va être à par",
+   "updatedAt": "2026-11-03T14:47:36.270035+00:00",
    "bytes": 23822336,
    "boundProject": "alien-skin-2-november-2026"
   },
@@ -302,8 +302,8 @@
    "conversationId": "gemini:b5fe17ca-baf0-408d-b195-d321db97fce5",
    "provider": "gemini",
    "sessionId": "b5fe17ca-baf0-408d-b195-d321db97fce5",
-   "title": "Conversation Gemini b5fe17ca",
-   "updatedAt": "2026-10-08T10:11:37.548Z",
+   "title": "[$zenray-assets](/Users/zenray/.codex/skills/zenray-assets/SKILL.md) context on a repris louisiana bayou comprends l'index mapping",
+   "updatedAt": "2026-10-08T10:10:53.647286+00:00",
    "bytes": 11272192,
    "boundProject": "louisiana-bayou"
   },
@@ -318,8 +318,8 @@
    "conversationId": "gemini:817ce2b3-49da-4157-97ed-d40d9533b1e7",
    "provider": "gemini",
    "sessionId": "817ce2b3-49da-4157-97ed-d40d9533b1e7",
-   "title": "Conversation Gemini 817ce2b3",
-   "updatedAt": "2026-09-07T09:16:38.501Z",
+   "title": "Est ce que tu peux voir s'il existe un houdini mcp officiel sortie par compatible avec agents agnostique si possible je sais que radu cius a",
+   "updatedAt": "2026-09-07T09:15:58.634576+00:00",
    "bytes": 2674688,
    "boundProject": null
   },
@@ -341,18 +341,18 @@
   },
   {
    "projectId": "alien-skin-2-november-2026",
-   "lines": 26,
+   "lines": 30,
    "work": 0,
    "prompts": 0,
    "first": "2026-11-05T18:27:08.735Z",
-   "last": "2026-11-11T14:47:46.395Z",
+   "last": "2026-11-12T01:23:53.580Z",
    "strength": "weak",
    "conversationId": "claude:0611e96b-26b2-4d65-a9e1-cb913738cca3",
    "provider": "claude",
    "sessionId": "0611e96b-26b2-4d65-a9e1-cb913738cca3",
    "title": "zenray meshes v5",
-   "updatedAt": "2026-11-11T19:30:32.504Z",
-   "bytes": 280567,
+   "updatedAt": "2026-11-12T01:48:10.686Z",
+   "bytes": 280718,
    "boundProject": "zenray-meshes"
   },
   {
@@ -578,6 +578,22 @@
    "updatedAt": "2026-11-09T16:08:51.807Z",
    "bytes": 276856,
    "boundProject": "zenray-past"
+  },
+  {
+   "projectId": "alien-skin-2-november-2026",
+   "lines": 4,
+   "work": 0,
+   "prompts": 1,
+   "first": "2026-11-12T01:00:28.961Z",
+   "last": "2026-11-12T01:00:37.737Z",
+   "strength": "weak",
+   "conversationId": "claude:e7a595ee-68f1-4379-b8a2-2a7a1305728d",
+   "provider": "claude",
+   "sessionId": "e7a595ee-68f1-4379-b8a2-2a7a1305728d",
+   "title": "excellent zenray audio et fonts",
+   "updatedAt": "2026-11-12T01:21:16.852Z",
+   "bytes": 276339,
+   "boundProject": "audio-fonts-gallery-12-november-2026"
   },
   {
    "projectId": "alien-skin-2-november-2026",
